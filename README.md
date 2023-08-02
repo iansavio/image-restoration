@@ -5,7 +5,7 @@ A folder in the repository consists of the images used in this project. The data
 
 The trained models have been saved and uploaded here as h5 files. These models can be loaded using Keras' load_model function.
 
-An ipynb file has been uploaded to observe the performance of each model. However, since the dataset is not available in this repository, steps 3 and 4 should not be run at all. Those steps are used strictly for organizing the training data and training the models. In order to test the models, steps 1, 2, and 5 should be executed instead. In this repository, the three test images used in the report are included. The same should be applied to the ([Google Colab](https://drive.google.com/file/d/1syxt3mYaTQAwOQ9v0QVhS2MFcG6P2XXd/view?usp=sharing)) version of the file .
+An ipynb file has been uploaded to observe the performance of each model. However, since the dataset is not available in this repository, steps 3 and 4 should not be run at all. Those steps are used strictly for organizing the training data and training the models. In order to test the models, steps 1, 2, and 5 should be executed instead. In this repository, the three test images used in the report are included. The same should be applied to the ([Google Colab](https://colab.research.google.com/drive/1VN3wOtizOvsI3gk0jRwh3IZN3PKtvZCq?usp=sharing)) version of the file .
 
 The yaml file provided here can be used to replicate the environment in which the whole project is conducted.
 
